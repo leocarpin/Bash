@@ -1,0 +1,9 @@
+#!/bin/bash
+
+echo "Teste de software inicio 01"
+ping
+netstat - show ports and portocols live
+ifconfig - show us network datas
+> - xxx.txt (create a file with datas)
+>> - xxx.txt (is like append on python( will add in the end of file)
+
